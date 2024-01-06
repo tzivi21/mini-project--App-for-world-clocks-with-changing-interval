@@ -38,7 +38,7 @@ function App() {
   }
   return (
     <>
-      <h1>All Clocks</h1>
+      <h1>All Clocks!!</h1>
       <button onClick={handleReset}>Reset All Interval</button>
       <button onClick={handleDouble}>Double All Interval</button>
       <button onClick={handleRandom}>Randomize All Interval</button>
